@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0184-department-highest-salary) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
