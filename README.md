@@ -18,9 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/3536-maximum-product-of-two-digits) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
