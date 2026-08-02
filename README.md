@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -30,4 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
