@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Math
 |  |
 | ------- |
