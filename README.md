@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Recursion
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
