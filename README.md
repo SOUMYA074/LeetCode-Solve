@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0032-longest-valid-parentheses) |
 | [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
