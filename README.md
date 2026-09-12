@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
 ## Dynamic Programming
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SOUMYA074/LeetCode-Solve/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
